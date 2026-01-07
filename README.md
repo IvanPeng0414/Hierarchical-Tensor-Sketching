@@ -1,6 +1,6 @@
-# Code for “[Generative Modeling via Hierarchical Tensor Sketching]”
+# Code for Generative Modeling via Hierarchical Tensor Sketching
 
-Include package https://github.com/oseledets/TT-Toolbox for the usage.
+Download package https://github.com/oseledets/TT-Toolbox.
 ---
 
 
