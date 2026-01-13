@@ -20,7 +20,7 @@ The code provides a reference implementation for the main algorithms in the pape
 
 ---
 
-## Repository Structure
+## Requirement
 
 TT-Toolbox package: https://github.com/oseledets/TT-Toolbox.
 
